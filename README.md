@@ -1,8 +1,10 @@
 <div align="center">
 
+
 <br/>
 
-<img src="https://libp2p.io/images/logo/white-bg-rounded.png" alt="libp2p logo" width="100"/>
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/51f52427-dd01-423e-9779-6cdc235074b7" />
+
 
 <br/><br/>
 
